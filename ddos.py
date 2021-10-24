@@ -4,7 +4,7 @@ import random
 target_IP = input("Enter IP address of Target: ")
 i = 1
 
-while True:
+
    a = str(random.randint(1,254))
    b = str(random.randint(1,254))
    c = str(random.randint(1,254))
