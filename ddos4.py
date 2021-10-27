@@ -1,7 +1,7 @@
 from scapy.all import *
 import random
 
-target_IP = input("Enter IP address of Target: ")
+target_IP = input("104.21.78.158: ")
 i = 1
 
 
